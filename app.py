@@ -1,1 +1,5 @@
-print('Hello World')
+print('Hello World \n')
+print('1- Adicionar Restaurante')
+print('2- Remover Restaurante')
+print('3- Ativar Restaurante')
+print('4- Sair')
